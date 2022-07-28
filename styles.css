@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+}
+
+.main {
+  background: #ccc;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.box {
+  background: #f86304;
+  margin: 20px;
+  font-size: 30px;
+  padding: 35px;
+  color: #fff;
+}
+
+/* .b2 {
+  height: 200px;
+}
+
+.b2 {
+  align-self: flex-start;
+}
+
+.b3 {
+  align-self: center;
+} */
